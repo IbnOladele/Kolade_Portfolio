@@ -42,3 +42,21 @@ I developed a Python-based analysis of 185,000+ crime records from the Los Angel
 The analysis combined data cleaning, transformation, and exploratory data analysis using Python libraries (pandas, NumPy, matplotlib, seaborn). Visualizations highlighted when, where, and among whom crimes were most frequent, providing actionable insights to support resource allocation, law enforcement strategy, and public safety measures.
 
 Tools Used: Python (pandas, NumPy, matplotlib, seaborn).
+
+# [Project 3: Password Checker Script on Python](https://github.com/IbnOladele/Password_checker)
+
+I built a Python script to evaluate and validate password strength based on security best practices. The tool checks for key criteria such as length, character diversity, and presence of numbers and special symbols, ensuring stronger protection against brute-force and dictionary attacks.
+
+### Key features of the script include:
+
+* Real-time validation: Provides instant feedback on whether a password is strong, moderate, or weak.
+
+* Rule-based checks: Enforce requirements for minimum length, uppercase/lowercase mix, digits, and special characters.
+
+* Error handling: Detects invalid inputs and prompts for corrections.
+
+* nScalability: Can be easily integrated into authentication systems or adapted for batch password audits.
+
+This project demonstrates the use of Python for cybersecurity and automation, applying string manipulation, regex, and conditional logic to create a practical utility for secure password management.
+
+Tools Used: Python (regex, string operations).
