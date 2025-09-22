@@ -25,7 +25,7 @@ The dashboard allows dynamic exploration of churn by demographics, contract type
 Tools Used: Power BI (data modeling, DAX measures, interactive visuals).
 
 
-#[Project 2: Crime Analysis in Los Angeles](https://github.com/IbnOladele/Python_Projects)
+# [Project 2: Crime Analysis in Los Angeles](https://github.com/IbnOladele/Python_Projects)
 
 I developed a Python-based analysis of 185,000+ crime records from the Los Angeles Police Department to uncover crime patterns and support better resource planning.
 
