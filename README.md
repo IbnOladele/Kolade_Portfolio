@@ -4,7 +4,7 @@
 
 I developed an interactive Power BI dashboard to analyze customer churn and identify key drivers behind attrition. The dataset contained 6,687 customers, with an overall churn rate of 26.86% (1,796 churned customers).
 
-Key insights from the analysis include:
+### Key insights from the analysis include:
 
 * Churn Drivers: The main reasons for churn were competition (better offers, devices, or services), poor customer support, dissatisfaction, and pricing issues.
 
@@ -23,3 +23,22 @@ Key insights from the analysis include:
 The dashboard allows dynamic exploration of churn by demographics, contract type, payment method, service usage, and geography, giving stakeholders actionable insights to design retention strategies.
 
 Tools Used: Power BI (data modeling, DAX measures, interactive visuals).
+
+
+#[Project 2: Crime Analysis in Los Angeles](https://github.com/IbnOladele/Python_Projects)
+
+I developed a Python-based analysis of 185,000+ crime records from the Los Angeles Police Department to uncover crime patterns and support better resource planning.
+
+### Key insights from the analysis include:
+
+ * Time Trends: Crimes peaked at 12:00 PM, with Central LA showing the highest late-night activity.
+
+ * Victim Demographics: The most affected age groups were 26–34 and 35–44, highlighting vulnerable populations.
+
+ * Geographic Patterns: Certain divisions consistently recorded higher crime volumes, making them priority zones for intervention.
+
+ * Behavioral Insights: Night-time incidents formed a significant share of overall crime, requiring targeted prevention strategies.
+
+The analysis combined data cleaning, transformation, and exploratory data analysis using Python libraries (pandas, NumPy, matplotlib, seaborn). Visualizations highlighted when, where, and among whom crimes were most frequent, providing actionable insights to support resource allocation, law enforcement strategy, and public safety measures.
+
+Tools Used: Python (pandas, NumPy, matplotlib, seaborn).
