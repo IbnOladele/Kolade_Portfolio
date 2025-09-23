@@ -60,3 +60,5 @@ I built a Python script to evaluate and validate password strength based on secu
 This project demonstrates the use of Python for cybersecurity and automation, applying string manipulation, regex, and conditional logic to create a practical utility for secure password management.
 
 Tools Used: Python (regex, string operations).
+
+## [Resume](https://github.com/IbnOladele/Resume)
